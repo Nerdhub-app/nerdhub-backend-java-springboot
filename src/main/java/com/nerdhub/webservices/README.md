@@ -7,6 +7,7 @@ Documentation of the root package `java`.
 - [Main class](#main-class)
 - [Clean architecture](#clean-architecture)
 - [Feature packages](#feature-packages)
+    - [Database tables repartition per feature](#database-tables-repartition-per-feature)
 - [Global package](#global-package)
 
 ## Main class
